@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegistrationSystemTestSuite" verbose="1">
+    <test name="RegistrationFormAutomationTests">
+        <classes>
+            <class name="RegistrationFormTest"/>
+        </classes>
+    </test>
+</suite>
